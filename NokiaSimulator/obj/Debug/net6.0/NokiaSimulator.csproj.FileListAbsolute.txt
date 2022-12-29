@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\NokiaSimulator\NokiaSimulator\bin\Debug\net6.0\NokiaSimulator.exe
+C:\Users\ASUS\Desktop\NokiaSimulator\NokiaSimulator\bin\Debug\net6.0\NokiaSimulator.deps.json
+C:\Users\ASUS\Desktop\NokiaSimulator\NokiaSimulator\bin\Debug\net6.0\NokiaSimulator.runtimeconfig.json
+C:\Users\ASUS\Desktop\NokiaSimulator\NokiaSimulator\bin\Debug\net6.0\NokiaSimulator.dll
+C:\Users\ASUS\Desktop\NokiaSimulator\NokiaSimulator\bin\Debug\net6.0\NokiaSimulator.pdb
+C:\Users\ASUS\Desktop\NokiaSimulator\NokiaSimulator\obj\Debug\net6.0\NokiaSimulator.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\NokiaSimulator\NokiaSimulator\obj\Debug\net6.0\NokiaSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\NokiaSimulator\NokiaSimulator\obj\Debug\net6.0\NokiaSimulator.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\NokiaSimulator\NokiaSimulator\obj\Debug\net6.0\NokiaSimulator.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\NokiaSimulator\NokiaSimulator\obj\Debug\net6.0\NokiaSimulator.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\NokiaSimulator\NokiaSimulator\obj\Debug\net6.0\NokiaSimulator.dll
+C:\Users\ASUS\Desktop\NokiaSimulator\NokiaSimulator\obj\Debug\net6.0\refint\NokiaSimulator.dll
+C:\Users\ASUS\Desktop\NokiaSimulator\NokiaSimulator\obj\Debug\net6.0\NokiaSimulator.pdb
+C:\Users\ASUS\Desktop\NokiaSimulator\NokiaSimulator\obj\Debug\net6.0\NokiaSimulator.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\NokiaSimulator\NokiaSimulator\obj\Debug\net6.0\ref\NokiaSimulator.dll
